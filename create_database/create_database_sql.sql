@@ -1,0 +1,2 @@
+CREATE DATABASE sistema_de_apuestas_deportivas
+go
